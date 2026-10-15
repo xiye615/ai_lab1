@@ -2,4 +2,6 @@
 __pycache__/
 *.py[cod]
 .DS_Store
-predictions.csv
+REPORT.md
+predictions_*.csv
+results/.matplotlib/
